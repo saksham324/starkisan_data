@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>	  <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>		 <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>		 <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> 
+<!--<![endif]-->
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>404 - Page Not Found</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="APMC(MNI), Azadpur organizes, control and guide various activities and Welfare Schemes of Mandi Samities. APMC has played a very important role in implementing various acts to get fair behavior and appropriate support prices for their crops to the farmers." />
+	<meta name="keywords" content="APMC azadpur, MNI, Market of National Interest, Azadpur Mandi, Agriculture Produce Marketing Committee" />
+	<meta name="author" content="APMC, Azadpur" />
+
+  <!-- 
+	//////////////////////////////////////////////////////
+
+	DESIGNED & DEVELOPED by Ankur Pathak
+
+	//////////////////////////////////////////////////////
+ -->
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<base href="http://apmcazadpurdelhi.com/">
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Simple Line Icons -->
+	<link rel="stylesheet" href="css/simple-line-icons.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Superfish -->
+	<link rel="stylesheet" href="css/superfish.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<link rel="stylesheet" href="font-awesome/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/dataTables.bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/apmc.css">
+	<link rel="stylesheet" href="css/responsive.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+
+	<!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<!-- Begin:apmc-page-wraper -->
+		<div id="apmc-wrapper">
+			<div id="apmc-page">
+			<!-- Begin:apmc-header -->
+				<div id="apmc-header">
+				<!-- Begin: Top Bar -->
+					<div id="top-bar">
+						<div class="container">
+							<div class="row">
+									<div id="left-bar" class="col-sm-8">
+										<ul>
+											<li><a href='gazette.html'>Gazette Notification</a></li>
+											<li><a href='rti.html'>RTI Act</a></li>
+											<!-- <li><a href='jobs.html'>Recruitments</a></li> -->
+											<li><a href='sitemap.html'>Sitemap</a></li>
+											</ul>
+									</div>
+									<div id="right-bar" class="col-sm-4"><span style="float:right;"> 
+										<!-- <select id="lang-sel">
+											<option value="eng">English</option>
+											<option value="hin">हिंदी</option>
+										</select> -->
+										<ul class="list-inline" style="margin:0">
+											<li><a href="#main-content">Skip to main content</a></li>
+											<li><a href="#" id="decfont"><img alt="font small" src="images/a-minus.png" width="14" height="12"></a></li>
+											<li><a href="#" id="normal"><img alt="font normal" src="images/a-normal.png" width="12" height="14"></a></li>
+											<li><a href="#" id="incfont"><img alt="font increase" src="images/a-plus.png" width="24" height="16"></a></li>
+										</ul>
+									</span></div>
+							</div>
+						</div>
+					</div> 
+				<!-- End: Top Bar -->
+					<div class="apmc-banner">
+						<div class="overlay-search">
+							<div class="container">
+								<div class="row">
+									<div class="col-xs-8">
+										<a href="index.html"><img class="apmc-logo" src="images/logoAPMC.png"></a>
+									</div>
+									<div id="login-link" class="col-xs-4">
+										<a href="http://www.apmcazadpur.com/" target="_blank" class="btn">Trader Login</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<header id="apmc-header-section">
+						<div class="container container-nav">
+						<div class="row">
+							<div class="col-sm-9">
+								<div class="nav-header">
+									<a href="#" class="js-apmc-nav-toggle apmc-nav-toggle"><i></i></a>
+									<!-- <h1 id="apmc-logo"><a href=""><img src="images/logoAPMC.png"></a></h1> -->
+									<!-- START #apmc-menu-wrap -->
+									<nav id="apmc-menu-wrap" role="navigation">
+										<ul class="sf-menu" id="apmc-primary-menu">
+											<li><a href=""><i class="fas fa-home"></i>Home</a></li>
+											<li><a href="about.html"><i class="fas fa-store"></i>About APMC</a>
+											</li>
+											<li><a href="#"><i class="fas fa-gavel"></i>Authorities</a>
+												<ul class="apmc-sub-menu">
+												 	<!-- <li><a href="about-chairman.html">Chairman</a></li> -->
+												 	<li><a href="committee-members.html">Committee Members</a></li>
+												 	<li><a href="members-damb.html">Board Members</a></li>
+												</ul>
+											</li>
+											<li><a href="gallery.html"><i class="fas fa-images"></i>Gallery</a></li>
+											<li><a "apmc-sub-ddown" href="#"><i class="fas fa-newspaper"></i>Notices</a>
+												<ul class="apmc-sub-menu">
+												 	<li><a href="notices.html">Important Notices</a></li>
+												 	<li><a href="tenders.html">Tender Notices</a></li>
+												 	<li><a href="circulars.html">Circulars & Orders</a></li>
+												</ul>
+											</li>
+											<li><a href="contact.html"><i class="fas fa-address-book"></i>Contact</a></li>
+										</ul>
+									</nav>
+								</div>
+							</div>
+							<div class="col-sm-3">
+							<div class="site-search">
+								<form>
+									<input type="text" name="q" id="site_search_input" pattern=".{3,}" placeholder="At least 3 characters" required><button type="submit" class="site_search_button"><i class="fa fa-search" aria-hidden="true"></i></button>
+								</form>
+							</div>
+							</div>
+						</div>
+							
+						</div>
+					</header>		
+				</div>
+			<!-- end:apmc-header -->
+			<!-- Begin:apmc-page-content -->
+			
+		<div class="content-area" id="main-content">
+			<div class="container">					
+			<div class="row">
+			<!-- 
+				=======================
+					Main Content Begin 
+				=======================
+			-->
+				<div class="col-sm-12" id="main">
+					<div class="page-entry">
+						<h1 class="page-title">404 - Page Not Found</h1>
+						<p>The requested URL was not found on this server. If you entered the URL manually please check your spelling and try again.</p>
+					</div>
+				</div>
+			<!-- 
+				=======================
+					Main Content End 
+				=======================
+			-->
+					</div>
+				</div>
+			</div>
+			<!-- End:apmc-page-content --> 
+			<!-- Begin:apmc-footer -->
+			<footer id="footer">		
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-4 order-first order-md-last">
+							<div class="copyright">
+								<p><small>Copyright &copy; 2019-20 - </small><strong><u>APMC(MNI)</u></strong>. <small>All Rights Reserved.</small></p>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="row">
+								<div class="foot_nav">
+									<ul>
+										<!-- <li><a href="Hindi/index.aspx">हिंदी</a></li> -->
+										<li><a href="gazette.html">Gazette Notification</a></li>
+										<li><a href="sitemap.html">Site Map</a></li>
+										<li><a href="rti.html">RTI Act</a></li>
+										<li><a href="disclaimer.html">Disclaimer</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4">
+
+							<!-- <a href="https://smallseotools.com/visitor-hit-counter/" target="_blank" title="Visitor Hit Counter"> -->
+							<span class="pull-right"><strong style="padding: 0 10px;">Visit Counter:</strong> <img src="https://smallseotools.com/counterDisplay?code=60bb9789fdb36227b5ec0045b3aaa4c4&style=0001&pad=5&type=page&initCount="  title="Visitor Hit Counter" Alt="Visitor Hit Counter" border="0"></span>
+
+
+							<!-- <ul class="social-icons">
+								<li>
+									<a href="#"><i class="icon-twitter-with-circle"></i></a>
+									<a href="#"><i class="icon-facebook-with-circle"></i></a>
+									<a href="#"><i class="icon-instagram-with-circle"></i></a>
+									<a href="#"><i class="icon-linkedin-with-circle"></i></a>
+								</li>
+							</ul> -->
+						</div>
+					</div>
+				</div>
+			</footer>
+		
+		<!-- End:apmc-footer -->
+
+		</div>
+	<!-- END apmc-page -->
+
+	</div>
+	<!-- END apmc-page-wrapper -->
+
+	<!-- jQuery -->
+
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Superfish -->
+	<script src="js/hoverIntent.js"></script>
+	<script src="js/superfish.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Stellar -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+
+	<!-- Main JS (Do not remove) -->
+	<script src="js/main.js"></script>
+	<script src="js/apmc.js"></script>
+	
+	</body>
+</html>
+
